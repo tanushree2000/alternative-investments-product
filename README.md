@@ -2,9 +2,8 @@
 
 **Portfolio case study | Product Management | Private Markets**
 
-Northstar is a fictional decision-support and workflow platform for an alternative asset manager. The case study explores a product opportunity connecting **deal underwriting and investment-committee decisions with post-investment portfolio monitoring**.
+Northstar is a decision-support and workflow platform for an alternative asset manager. The case study explores a product opportunity connecting **deal underwriting and investment-committee decisions with post-investment portfolio monitoring**.
 
-> This is an independent portfolio project. Northstar is fictional. All company/deal data is synthetic. Public sources are used only for industry context. Nothing in this repository represents Goldman Sachs or any other firm's internal systems, processes, or data.
 
 ## Product thesis
 
