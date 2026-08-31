@@ -1,0 +1,24 @@
+# Information Architecture
+
+- Portfolio
+  - Portfolio overview
+  - Exception queue
+- Deals
+  - Pipeline
+  - Deal workspace
+    - Thesis
+    - Diligence
+    - Financial case
+    - Risks
+    - IC decision
+- Investments
+  - Investment overview
+  - Thesis Monitor
+  - KPI history
+  - Milestones
+  - Actions
+- Administration
+  - KPI dictionary
+  - thresholds
+  - integrations
+  - roles

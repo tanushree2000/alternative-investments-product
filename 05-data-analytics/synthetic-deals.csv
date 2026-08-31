@@ -1,0 +1,181 @@
+deal_id,company,sector,region,stage,owner,created_date,deal_size_usd_mm,days_in_stage,screening_score
+D001,Target 001,FinTech,Europe,Screening,Liam Patel,2025-04-13,47.1,18,57
+D002,Target 002,Healthcare,North America,Screening,Maya Chen,2025-08-03,158.2,18,81
+D003,Target 003,Consumer,North America,IC Review,Maya Chen,2025-12-10,48.8,33,65
+D004,Target 004,Healthcare,North America,Diligence,Liam Patel,2025-01-22,39.8,15,79
+D005,Target 005,FinTech,Europe,Approved,Liam Patel,2025-07-09,66.7,16,71
+D006,Target 006,Industrials,North America,Approved,Liam Patel,2026-04-30,70.8,13,76
+D007,Target 007,FinTech,Europe,IC Review,Liam Patel,2026-01-23,63.0,35,81
+D008,Target 008,Healthcare,Europe,Rejected,Maya Chen,2026-03-04,36.8,19,71
+D009,Target 009,Software,Europe,Diligence,Sofia Martinez,2026-01-23,66.3,15,74
+D010,Target 010,Consumer,North America,Diligence,Noah Williams,2025-09-28,89.7,24,68
+D011,Target 011,Consumer,Europe,Screening,Maya Chen,2025-12-04,173.0,18,53
+D012,Target 012,Consumer,Europe,Diligence,Liam Patel,2025-06-06,83.5,34,82
+D013,Target 013,FinTech,North America,Screening,Sofia Martinez,2025-10-16,82.6,18,61
+D014,Target 014,Software,North America,Rejected,Noah Williams,2026-05-18,57.4,13,57
+D015,Target 015,Business Services,Europe,IC Review,Liam Patel,2026-07-01,37.8,24,76
+D016,Target 016,Business Services,Europe,Diligence,Maya Chen,2026-02-02,120.6,102,60
+D017,Target 017,Consumer,North America,Approved,Liam Patel,2026-07-08,32.4,22,98
+D018,Target 018,Industrials,North America,Diligence,Sofia Martinez,2026-04-30,38.0,19,54
+D019,Target 019,Software,North America,Diligence,Sofia Martinez,2025-02-05,64.1,34,75
+D020,Target 020,Industrials,North America,Diligence,Sofia Martinez,2025-01-28,90.3,20,55
+D021,Target 021,Healthcare,Europe,Approved,Noah Williams,2026-05-21,52.1,15,82
+D022,Target 022,Healthcare,North America,Diligence,Sofia Martinez,2025-09-16,33.4,25,69
+D023,Target 023,FinTech,Europe,Approved,Sofia Martinez,2025-08-13,51.7,16,74
+D024,Target 024,Healthcare,North America,Rejected,Noah Williams,2025-08-21,24.3,17,70
+D025,Target 025,Software,North America,Rejected,Liam Patel,2025-09-25,59.8,9,72
+D026,Target 026,FinTech,Europe,Screening,Maya Chen,2025-08-13,182.8,18,84
+D027,Target 027,Industrials,Europe,Diligence,Sofia Martinez,2026-02-20,42.8,27,80
+D028,Target 028,Consumer,North America,Rejected,Maya Chen,2025-07-17,45.7,45,67
+D029,Target 029,FinTech,Europe,Rejected,Sofia Martinez,2025-07-20,38.6,18,92
+D030,Target 030,Software,North America,Diligence,Noah Williams,2026-02-07,89.4,39,79
+D031,Target 031,Software,Europe,Rejected,Liam Patel,2026-05-04,39.9,52,67
+D032,Target 032,Consumer,Europe,Rejected,Liam Patel,2026-04-18,40.5,28,54
+D033,Target 033,Healthcare,North America,Diligence,Maya Chen,2025-09-20,96.5,33,52
+D034,Target 034,Consumer,North America,Diligence,Maya Chen,2025-10-31,65.6,26,78
+D035,Target 035,Business Services,Europe,Rejected,Liam Patel,2025-01-09,93.1,13,68
+D036,Target 036,Software,North America,Diligence,Maya Chen,2026-02-24,97.5,28,82
+D037,Target 037,FinTech,North America,IC Review,Liam Patel,2026-05-25,38.7,13,73
+D038,Target 038,Healthcare,North America,Approved,Sofia Martinez,2025-06-10,59.9,25,67
+D039,Target 039,Consumer,Europe,Rejected,Liam Patel,2026-05-19,93.1,31,61
+D040,Target 040,Consumer,North America,Rejected,Sofia Martinez,2026-04-15,64.4,15,62
+D041,Target 041,Industrials,Europe,Rejected,Noah Williams,2025-12-31,90.9,25,87
+D042,Target 042,Consumer,North America,IC Review,Liam Patel,2026-04-26,33.0,34,61
+D043,Target 043,Software,North America,Diligence,Liam Patel,2026-07-01,60.0,28,75
+D044,Target 044,Software,North America,Screening,Liam Patel,2025-02-06,75.8,18,80
+D045,Target 045,Software,Europe,Rejected,Maya Chen,2025-04-09,39.4,18,44
+D046,Target 046,Consumer,Europe,Diligence,Liam Patel,2025-11-19,53.5,15,73
+D047,Target 047,Consumer,Europe,Screening,Liam Patel,2025-06-04,38.0,12,77
+D048,Target 048,Industrials,North America,Rejected,Maya Chen,2025-02-08,43.5,39,64
+D049,Target 049,Software,Europe,Approved,Noah Williams,2026-02-12,61.0,39,78
+D050,Target 050,Industrials,North America,IC Review,Maya Chen,2026-05-27,100.6,18,70
+D051,Target 051,Software,Europe,IC Review,Maya Chen,2025-05-23,42.6,22,71
+D052,Target 052,Healthcare,Europe,Diligence,Liam Patel,2025-07-09,47.4,36,52
+D053,Target 053,Industrials,Europe,Diligence,Liam Patel,2025-02-23,24.6,31,86
+D054,Target 054,Software,North America,IC Review,Maya Chen,2025-12-16,56.4,66,79
+D055,Target 055,FinTech,North America,Rejected,Maya Chen,2025-09-26,57.5,19,61
+D056,Target 056,Healthcare,Europe,Screening,Noah Williams,2026-04-19,88.1,16,91
+D057,Target 057,Healthcare,North America,Rejected,Liam Patel,2026-05-28,30.1,21,75
+D058,Target 058,Industrials,Europe,Screening,Sofia Martinez,2026-03-23,165.7,18,66
+D059,Target 059,Industrials,Europe,Diligence,Liam Patel,2025-06-03,106.7,17,69
+D060,Target 060,Healthcare,North America,Diligence,Maya Chen,2025-08-06,140.1,36,79
+D061,Target 061,FinTech,North America,Diligence,Noah Williams,2025-09-11,24.6,15,66
+D062,Target 062,Consumer,North America,Rejected,Maya Chen,2025-08-11,64.0,96,73
+D063,Target 063,Consumer,North America,Screening,Maya Chen,2025-01-16,66.0,18,79
+D064,Target 064,Consumer,North America,Screening,Noah Williams,2026-01-15,63.9,18,68
+D065,Target 065,Software,North America,Rejected,Maya Chen,2025-09-25,73.5,24,75
+D066,Target 066,Consumer,Europe,Screening,Sofia Martinez,2025-03-31,45.6,18,66
+D067,Target 067,Healthcare,Europe,Approved,Liam Patel,2026-02-22,59.6,8,78
+D068,Target 068,Business Services,Europe,Diligence,Noah Williams,2026-01-11,55.5,38,79
+D069,Target 069,Business Services,North America,Rejected,Maya Chen,2026-01-29,128.4,7,64
+D070,Target 070,Industrials,North America,Approved,Maya Chen,2025-04-06,71.7,33,69
+D071,Target 071,Consumer,Europe,Diligence,Liam Patel,2026-01-04,101.0,38,79
+D072,Target 072,Business Services,North America,Rejected,Sofia Martinez,2025-12-08,21.9,18,68
+D073,Target 073,Business Services,Europe,Screening,Maya Chen,2026-03-21,69.8,18,94
+D074,Target 074,FinTech,Europe,Rejected,Maya Chen,2025-03-10,97.5,14,57
+D075,Target 075,Healthcare,North America,Diligence,Liam Patel,2026-04-29,136.5,31,82
+D076,Target 076,Business Services,North America,Diligence,Sofia Martinez,2025-09-10,75.4,22,86
+D077,Target 077,Healthcare,Europe,Approved,Noah Williams,2026-01-28,77.6,39,54
+D078,Target 078,Business Services,North America,Rejected,Maya Chen,2026-05-15,32.0,29,69
+D079,Target 079,FinTech,Europe,IC Review,Maya Chen,2025-03-11,56.1,59,59
+D080,Target 080,Software,North America,Diligence,Sofia Martinez,2026-06-15,87.7,25,59
+D081,Target 081,Healthcare,Europe,Approved,Maya Chen,2025-08-08,123.4,32,78
+D082,Target 082,Software,North America,Screening,Maya Chen,2026-01-22,83.9,18,73
+D083,Target 083,Business Services,North America,Approved,Noah Williams,2026-01-04,61.9,15,49
+D084,Target 084,Healthcare,Europe,Screening,Maya Chen,2025-03-21,79.0,18,72
+D085,Target 085,Business Services,North America,Diligence,Maya Chen,2025-08-15,48.8,28,63
+D086,Target 086,Business Services,Europe,Rejected,Liam Patel,2026-05-28,39.0,45,93
+D087,Target 087,Healthcare,North America,Rejected,Noah Williams,2025-01-12,40.7,22,77
+D088,Target 088,Software,Europe,Screening,Noah Williams,2025-11-12,37.8,16,73
+D089,Target 089,FinTech,North America,Rejected,Sofia Martinez,2026-05-17,131.3,10,70
+D090,Target 090,Healthcare,North America,Rejected,Noah Williams,2026-03-26,80.8,12,74
+D091,Target 091,Software,North America,Rejected,Liam Patel,2026-01-09,68.9,13,70
+D092,Target 092,Industrials,North America,Diligence,Liam Patel,2025-04-09,105.3,28,66
+D093,Target 093,Software,Europe,Approved,Sofia Martinez,2026-03-13,123.8,34,55
+D094,Target 094,Business Services,Europe,Rejected,Sofia Martinez,2026-04-02,45.3,11,78
+D095,Target 095,FinTech,Europe,Approved,Maya Chen,2025-02-03,41.6,21,90
+D096,Target 096,Software,Europe,Rejected,Liam Patel,2025-11-02,63.6,28,85
+D097,Target 097,Consumer,Europe,Rejected,Maya Chen,2026-02-05,80.7,48,66
+D098,Target 098,Software,Europe,Approved,Sofia Martinez,2025-11-02,51.7,8,89
+D099,Target 099,Industrials,North America,Approved,Noah Williams,2026-03-23,71.0,56,68
+D100,Target 100,Consumer,North America,Diligence,Noah Williams,2025-04-16,76.8,15,71
+D101,Target 101,Software,North America,Approved,Sofia Martinez,2026-06-30,30.4,45,50
+D102,Target 102,Industrials,Europe,Screening,Sofia Martinez,2025-04-21,91.1,13,77
+D103,Target 103,FinTech,Europe,Rejected,Sofia Martinez,2025-07-14,61.5,42,55
+D104,Target 104,FinTech,Europe,IC Review,Sofia Martinez,2025-01-05,75.7,12,56
+D105,Target 105,Consumer,Europe,Screening,Noah Williams,2026-05-28,23.0,18,67
+D106,Target 106,FinTech,North America,Approved,Sofia Martinez,2025-03-14,41.7,25,61
+D107,Target 107,Industrials,North America,Approved,Sofia Martinez,2025-02-25,57.4,22,63
+D108,Target 108,Business Services,Europe,Diligence,Noah Williams,2025-10-30,78.3,22,44
+D109,Target 109,Industrials,North America,IC Review,Noah Williams,2025-03-19,126.5,22,82
+D110,Target 110,FinTech,North America,Screening,Sofia Martinez,2025-12-29,38.7,14,72
+D111,Target 111,Consumer,Europe,Approved,Maya Chen,2025-01-15,68.9,19,86
+D112,Target 112,Healthcare,North America,Approved,Liam Patel,2025-03-27,66.7,16,67
+D113,Target 113,Healthcare,North America,Screening,Noah Williams,2025-07-31,22.7,18,98
+D114,Target 114,Consumer,North America,Rejected,Noah Williams,2026-04-15,45.6,51,78
+D115,Target 115,Industrials,North America,Rejected,Noah Williams,2026-07-08,40.7,11,49
+D116,Target 116,Industrials,North America,Diligence,Maya Chen,2026-01-12,92.2,21,69
+D117,Target 117,Software,North America,Rejected,Liam Patel,2026-05-18,103.0,25,81
+D118,Target 118,FinTech,North America,Approved,Liam Patel,2025-04-28,64.4,17,65
+D119,Target 119,Software,Europe,IC Review,Sofia Martinez,2026-03-17,68.6,57,66
+D120,Target 120,Industrials,Europe,Approved,Noah Williams,2026-02-14,75.4,16,50
+D121,Target 121,Healthcare,Europe,Approved,Noah Williams,2025-04-23,138.5,29,72
+D122,Target 122,Business Services,Europe,Rejected,Noah Williams,2026-05-26,40.7,83,52
+D123,Target 123,FinTech,Europe,Diligence,Maya Chen,2025-01-10,148.2,62,65
+D124,Target 124,FinTech,Europe,Diligence,Sofia Martinez,2025-11-15,67.9,43,81
+D125,Target 125,Business Services,North America,Rejected,Liam Patel,2026-07-04,27.2,14,76
+D126,Target 126,Healthcare,North America,Diligence,Liam Patel,2025-05-17,46.0,19,57
+D127,Target 127,Software,Europe,IC Review,Noah Williams,2025-11-16,102.1,29,64
+D128,Target 128,Industrials,Europe,Screening,Noah Williams,2025-10-18,78.6,18,66
+D129,Target 129,Consumer,North America,Rejected,Noah Williams,2026-02-14,53.3,34,65
+D130,Target 130,Industrials,Europe,Screening,Sofia Martinez,2026-06-10,142.3,18,81
+D131,Target 131,Industrials,Europe,Rejected,Liam Patel,2025-05-23,26.1,41,63
+D132,Target 132,Industrials,Europe,Diligence,Noah Williams,2025-04-14,61.9,15,75
+D133,Target 133,Software,Europe,Diligence,Liam Patel,2026-01-26,91.1,43,71
+D134,Target 134,Industrials,North America,Rejected,Noah Williams,2026-04-23,97.0,28,74
+D135,Target 135,Consumer,North America,Approved,Maya Chen,2025-04-07,93.4,36,79
+D136,Target 136,FinTech,Europe,IC Review,Liam Patel,2026-06-01,40.1,21,81
+D137,Target 137,Software,Europe,Diligence,Liam Patel,2025-06-08,42.5,15,98
+D138,Target 138,Industrials,Europe,Diligence,Sofia Martinez,2025-06-06,65.5,37,60
+D139,Target 139,Industrials,North America,Diligence,Noah Williams,2025-04-05,109.8,62,86
+D140,Target 140,Software,North America,Approved,Sofia Martinez,2025-09-11,70.9,28,82
+D141,Target 141,Healthcare,North America,Approved,Maya Chen,2025-12-12,65.4,79,73
+D142,Target 142,Healthcare,North America,Diligence,Liam Patel,2025-11-20,83.6,45,80
+D143,Target 143,Healthcare,North America,Screening,Liam Patel,2025-02-20,65.5,18,60
+D144,Target 144,Industrials,Europe,Approved,Liam Patel,2026-02-09,57.0,20,66
+D145,Target 145,Consumer,North America,Approved,Liam Patel,2025-01-01,61.9,43,64
+D146,Target 146,Business Services,North America,Screening,Sofia Martinez,2025-05-17,56.8,18,64
+D147,Target 147,Consumer,Europe,Approved,Noah Williams,2025-09-01,87.4,26,87
+D148,Target 148,FinTech,North America,Diligence,Maya Chen,2026-06-13,41.7,20,72
+D149,Target 149,FinTech,North America,Rejected,Maya Chen,2025-07-01,60.2,11,69
+D150,Target 150,Business Services,Europe,Approved,Maya Chen,2025-03-04,82.5,15,63
+D151,Target 151,Consumer,North America,Approved,Noah Williams,2025-02-18,53.5,13,72
+D152,Target 152,Industrials,Europe,Screening,Noah Williams,2025-05-21,64.8,11,49
+D153,Target 153,FinTech,North America,Screening,Sofia Martinez,2025-11-14,46.6,18,98
+D154,Target 154,Consumer,Europe,Rejected,Noah Williams,2025-01-18,36.7,42,59
+D155,Target 155,Industrials,Europe,Rejected,Sofia Martinez,2026-05-17,23.7,12,67
+D156,Target 156,Healthcare,North America,Rejected,Sofia Martinez,2025-02-24,51.1,23,78
+D157,Target 157,Industrials,Europe,Diligence,Noah Williams,2025-06-11,51.3,24,83
+D158,Target 158,Business Services,Europe,Screening,Liam Patel,2025-11-09,106.9,17,63
+D159,Target 159,Industrials,Europe,Diligence,Sofia Martinez,2025-11-24,63.1,23,57
+D160,Target 160,Business Services,Europe,Rejected,Maya Chen,2026-02-22,83.2,46,77
+D161,Target 161,Consumer,North America,Rejected,Liam Patel,2026-05-15,37.1,34,51
+D162,Target 162,FinTech,North America,IC Review,Noah Williams,2026-05-29,133.5,28,80
+D163,Target 163,FinTech,Europe,Approved,Maya Chen,2026-01-21,52.0,24,86
+D164,Target 164,Software,Europe,Diligence,Liam Patel,2025-08-14,44.6,21,77
+D165,Target 165,Business Services,Europe,Approved,Noah Williams,2025-12-30,93.4,25,67
+D166,Target 166,Consumer,Europe,Approved,Sofia Martinez,2026-06-10,58.8,39,84
+D167,Target 167,Business Services,Europe,Approved,Sofia Martinez,2025-07-20,65.2,23,56
+D168,Target 168,Business Services,North America,Diligence,Sofia Martinez,2025-03-16,63.1,27,87
+D169,Target 169,Software,North America,Approved,Liam Patel,2025-02-10,72.5,8,66
+D170,Target 170,Healthcare,Europe,Approved,Sofia Martinez,2025-12-08,76.5,29,83
+D171,Target 171,Software,Europe,Rejected,Liam Patel,2026-03-31,102.9,29,66
+D172,Target 172,Business Services,North America,Screening,Liam Patel,2025-05-10,116.1,18,63
+D173,Target 173,Business Services,North America,Screening,Sofia Martinez,2025-10-19,54.5,18,80
+D174,Target 174,FinTech,Europe,Rejected,Maya Chen,2025-11-06,118.6,64,68
+D175,Target 175,Software,Europe,Approved,Noah Williams,2025-03-10,27.4,24,75
+D176,Target 176,Industrials,North America,Diligence,Sofia Martinez,2026-05-22,53.2,15,83
+D177,Target 177,Industrials,North America,Screening,Noah Williams,2026-05-16,34.1,11,81
+D178,Target 178,Industrials,North America,Screening,Liam Patel,2025-01-25,124.0,18,65
+D179,Target 179,Healthcare,Europe,Rejected,Maya Chen,2025-06-21,52.5,17,74
+D180,Target 180,Healthcare,Europe,Screening,Liam Patel,2025-01-12,144.8,18,73
