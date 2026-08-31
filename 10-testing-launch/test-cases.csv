@@ -1,0 +1,11 @@
+Test ID,Area,Scenario,Precondition,Action,Expected Result,Severity
+TC-001,Baseline,Approve complete thesis,Authorized approver; required metrics complete,Approve baseline,Version frozen with approver/timestamp,Critical
+TC-002,Baseline,Prevent direct edit of approved baseline,Approved baseline exists,Edit target,New draft version created; original unchanged,Critical
+TC-003,Mapping,Reject unit mismatch,Metric is percentage; source is currency,Activate mapping,Activation blocked with clear error,High
+TC-004,Ingestion,Deduplicate observation,Observation already loaded,Reload same source record,No duplicate actual created,Critical
+TC-005,Variance,Create P1 exception,Growth target 15%; actual 8%; P1 threshold -5pp,Load actual,P1 exception created with -7pp variance,Critical
+TC-006,Workflow,Assign exception,Open exception exists,Assign owner and due date,Owner/status/due date saved and audited,High
+TC-007,Workflow,Resolve exception,Owner has investigated,Enter cause/action and resolve,Resolution audited; item leaves open queue,High
+TC-008,Security,Restrict approval,User lacks IC approver role,Attempt approval,Access denied; event logged,Critical
+TC-009,Resilience,Vendor feed fails,API timeout,Run ingestion,Retry queued; no partial/duplicate record,High
+TC-010,Portfolio,Sort by severity,Mixed P0/P1/P2/None,Open portfolio,P0/P1 surfaced first,Medium

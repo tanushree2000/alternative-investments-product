@@ -1,0 +1,17 @@
+Issue ID,Issue Type,Summary,Description,Priority,Epic Link
+EPIC-1,Epic,Thesis Baseline,Create governed investment thesis baseline,Highest,EPIC-1
+ST-101,Story,Create thesis metric,"As an Investment Associate, I want to define a thesis metric with unit, target, period and source so that it can be monitored after approval.",High,
+ST-102,Story,Approve thesis baseline,"As an IC approver, I want to freeze the approved thesis version so that later monitoring uses the decision-time assumptions.",Highest,
+EPIC-2,Epic,Data Mapping,Map actual portfolio data to thesis metrics,Highest,EPIC-2
+ST-201,Story,Map KPI source,"As Operations, I want to map a thesis metric to a governed source field so that actuals load consistently.",Highest,
+ST-202,Story,Validate inbound actual,"As Operations, I want invalid or duplicate observations quarantined so that portfolio metrics remain trustworthy.",Highest,
+EPIC-3,Epic,Variance Engine,Calculate expected-vs-actual variance,Highest,EPIC-3
+ST-301,Story,Calculate variance,"As a Portfolio Manager, I want target and actual variance calculated by period so that I can understand deviation.",Highest,
+ST-302,Story,Configure thresholds,"As Product Operations, I want severity thresholds by metric so that material exceptions are prioritized.",High,
+EPIC-4,Epic,Exception Workflow,Turn material variance into accountable action,Highest,EPIC-4
+ST-401,Story,Create exception,"As a Portfolio Manager, I want a material breach to create an exception with context so that I know what needs review.",Highest,
+ST-402,Story,Assign owner,"As a Portfolio Manager, I want to assign an exception and due date so that investigation is accountable.",High,
+ST-403,Story,Resolve exception,"As an owner, I want to document cause, action and resolution so that the decision history is retained.",High,
+EPIC-5,Epic,Portfolio Experience,Provide portfolio-level decision view,High,EPIC-5
+ST-501,Story,View exception-first portfolio,"As a Portfolio Manager, I want investments sorted by material exception so that I allocate attention efficiently.",High,
+ST-502,Story,View thesis history,"As an IC member, I want to see original and revised thesis versions so that changes remain transparent.",Medium,
